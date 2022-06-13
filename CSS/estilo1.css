@@ -1,0 +1,44 @@
+*
+{
+   color:#244403 ;   
+   background-color:#E8E8E8  ;
+ 
+}
+img
+{
+  height:50%;
+  width:50%;
+  text-align:center;
+}
+h1
+
+{
+  color:green;
+  background-color:#232222;
+  text-align:center;
+  font-size:50px;
+}
+h2
+{
+  color:black; 
+  font-size:35px;	
+  text-align:center;
+}
+
+h3
+{color:black; 
+   font-size:35px;
+
+}
+p
+{
+  font-family:tahoma; 
+  font-size:20px;
+
+}
+
+ol 
+{
+  background-color:#green;
+  
+}
